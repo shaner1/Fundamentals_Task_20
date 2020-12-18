@@ -1,5 +1,10 @@
 # Fundamentals_Task_20
 
+### This file contains my solution for the Fundamentals of Data Analytics tasks for 2020
+
+### Author: Shane Rylands 
+### G00387904@gmit.ie
+
 ## Table of Contents:
 - Task 1
 - Task 2
@@ -49,3 +54,7 @@ $x$ , $y$ pair to demonstrate the paradox. You might see the Wikipedia page for
 Simpson’s paradox for inspiration.
 
 ***
+
+To run this jupyter notebook file you will need to install Python, ideally through th Anaconda distribution. Then you will need to download this repository to your local device. To open the jupyter notebook from your device, please navigate to the folder containing the notebook in your your command line interface and then type: 
+
+`jupyter notebook`
